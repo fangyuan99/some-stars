@@ -132,13 +132,13 @@
 
 ## TypeScript
 
-*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact 是一个摄影师专用的摄影作品展示网站，基于 Next.js + Hono.js 开发。今天又是想当二次元摄影高手的一天呢！
+*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact，分享你和世界！
 
 *   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
 
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
-*   [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，零配置部署，多路token支持。
+*   [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V2大模型逆向API白嫖测试【特长：GPT4平替】，支持高速流式输出、多轮对话，r1深度思考，零配置部署，多路token支持。
 
 ## Svelte
 
