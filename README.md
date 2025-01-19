@@ -10,24 +10,82 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [HTML](#html)
+*   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Batchfile](#batchfile)
 *   [JavaScript](#javascript)
-*   [Python](#python)
 *   [Shell](#shell)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [Java](#java)
-*   [HTML](#html)
 *   [PowerShell](#powershell)
 *   [Kotlin](#kotlin)
-*   [Vue](#vue)
 *   [Go](#go)
 *   [C#](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 
+## Python
+
+*   [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
+
+*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
+
+*   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报每日自动签到/个人、群组、频道消息监控与自动回复; Telegram Daily Auto Sign-in / Personal, Group, and Channel Message Monitoring and Auto Reply
+
+*   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic. 已入驻爱发电，可在此支持项目：https://afdian.com/a/ghacg
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
+
+*   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: 智能语音转文字工具 | 高效批处理 | 用户友好界面 | 无需 GPU |支持 SRT/TXT 输出 | 让您的音频瞬间变成精确文字！
+
+*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
+
+*   [yym68686/uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
+
+*   [AowerDmax/Simple-Interview-Audio-Processing](https://github.com/AowerDmax/Simple-Interview-Audio-Processing) -
+
+*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
+
+*   [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
+
+*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
+
+*   [miyouzi/aniGamerPlus](https://github.com/miyouzi/aniGamerPlus) - 巴哈姆特動畫瘋自動下載工具，支援命令行
+
+*   [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+
+*   [guoqiangqi/PFLD](https://github.com/guoqiangqi/PFLD) - Implementation of PFLD A Practical Facial Landmark Detector  , reference to  https://arxiv.org/pdf/1902.10859.pdf
+
+*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+
+*   [ReaJason/17wanxiaoCheckin](https://github.com/ReaJason/17wanxiaoCheckin) - 完美校园健康打卡，校内打卡，理论上支持所有学校（大概...）
+
+## HTML
+
+*   [huhusmang/utools-qwen-ocr](https://github.com/huhusmang/utools-qwen-ocr) - 基于通义千问大模型的智能 OCR 识别工具
+
+*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
+
+*   [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
+
+## Vue
+
+*   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
+
+*   [october-coder/api-check](https://github.com/october-coder/api-check) - Pure Front-End API Testing Tool
+
+*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
+
+*   [laorange/paper-assistant](https://github.com/laorange/paper-assistant) - 论文工具：文本复制工具 (智能删除空行空格乱码)
+
 ## miscellaneous
+
+*   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
 *   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 
@@ -65,15 +123,13 @@
 
 *   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
 
-*   [GuooGaii/ip-geoaddress-generator](https://github.com/GuooGaii/ip-geoaddress-generator) - 基于IP的真实地址生成器
-
 *   [Danmaku-Kakashi/Danmaku-Kakashi-Ext](https://github.com/Danmaku-Kakashi/Danmaku-Kakashi-Ext) - A browser extension that adds danmaku to YouTube Videos
 
 *   [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share) - Cookie-share is a extension/script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.
+*   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 
@@ -82,42 +138,6 @@
 *   [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 
 *   [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-
-## Python
-
-*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
-
-*   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报每日自动签到/个人、群组、频道消息监控与自动回复; Telegram Daily Auto Sign-in / Personal, Group, and Channel Message Monitoring and Auto Reply
-
-*   [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic. 已入驻爱发电，可在此支持项目：https://afdian.com/a/ghacg
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
-*   [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
-
-*   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: 智能语音转文字工具 | 高效批处理 | 用户友好界面 | 无需 GPU |支持 SRT/TXT 输出 | 让您的音频瞬间变成精确文字！
-
-*   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
-
-*   [yym68686/uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
-
-*   [AowerDmax/Simple-Interview-Audio-Processing](https://github.com/AowerDmax/Simple-Interview-Audio-Processing) -
-
-*   [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
-
-*   [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
-
-*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
-
-*   [miyouzi/aniGamerPlus](https://github.com/miyouzi/aniGamerPlus) - 巴哈姆特動畫瘋自動下載工具，支援命令行
-
-*   [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
-
-*   [guoqiangqi/PFLD](https://github.com/guoqiangqi/PFLD) - Implementation of PFLD A Practical Facial Landmark Detector  , reference to  https://arxiv.org/pdf/1902.10859.pdf
-
-*   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-
-*   [ReaJason/17wanxiaoCheckin](https://github.com/ReaJason/17wanxiaoCheckin) - 完美校园健康打卡，校内打卡，理论上支持所有学校（大概...）
 
 ## Shell
 
@@ -131,7 +151,7 @@
 
 *   [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00三合一进程保活脚本
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00三合一代理脚本，部署保活融为一体
 
 *   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
 
@@ -148,6 +168,8 @@
 *   [LaughingZhu/DevNow](https://github.com/LaughingZhu/DevNow) - 📚 DevNow is an open source technology blog project. It currently hosts weekly news  （about  technology, development and product）, which is published every Monday morning. / DevNow 是一个精简的开源技术博客项目模版，支持 Vercel 一键部署，支持评论、搜索等功能，欢迎大家体验。
 
 *   [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
+
+*   [GuooGaii/ip-geoaddress-generator](https://github.com/GuooGaii/ip-geoaddress-generator) - 基于IP的真实地址生成器
 
 *   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact，分享你和世界！
 
@@ -175,12 +197,6 @@
 
 *   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
 
-## HTML
-
-*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
-
-*   [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
-
 ## PowerShell
 
 *   [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
@@ -188,14 +204,6 @@
 ## Kotlin
 
 *   [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，Bangumi 索引，在线 + BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
-
-## Vue
-
-*   [october-coder/api-check](https://github.com/october-coder/api-check) - Pure Front-End API Testing Tool
-
-*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
-
-*   [laorange/paper-assistant](https://github.com/laorange/paper-assistant) - 论文工具：文本复制工具 (智能删除空行空格乱码)
 
 ## Go
 
