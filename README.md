@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -17,7 +18,6 @@
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
-*   [Batchfile](#batchfile)
 *   [Shell](#shell)
 *   [Dart](#dart)
 *   [Java](#java)
@@ -26,6 +26,12 @@
 *   [C#](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
+
+## Batchfile
+
+*   [fangyuan99/PathRight](https://github.com/fangyuan99/PathRight) - 🎯 PathRight - Right-click your way to PATH management. A smart Windows utility that adds directories to system PATH through context menu.  PathRight - 用右键管理 PATH 的智能方式。通过上下文菜单将目录添加到系统 PATH 的 Windows 实用工具。
+
+*   [FongMi/Release](https://github.com/FongMi/Release) -
 
 ## TypeScript
 
@@ -41,7 +47,7 @@
 
 *   [GuooGaii/ip-geoaddress-generator](https://github.com/GuooGaii/ip-geoaddress-generator) - 基于IP的真实地址生成器
 
-*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact，分享你和世界！
+*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 
 *   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
 
@@ -101,7 +107,7 @@
 
 *   [sarperavci/GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
 
-*   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: 智能语音转文字工具 | 高效批处理 | 用户友好界面 | 无需 GPU |支持 SRT/TXT 输出 | 让您的音频瞬间变成精确文字！
+*   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant!
 
 *   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
 
@@ -168,10 +174,6 @@
 *   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 
 *   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
-
-## Batchfile
-
-*   [FongMi/Release](https://github.com/FongMi/Release) -
 
 ## Shell
 
