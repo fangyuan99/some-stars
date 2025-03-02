@@ -15,12 +15,12 @@
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Python](#python)
-*   [HTML](#html)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Dart](#dart)
 *   [Java](#java)
+*   [HTML](#html)
 *   [PowerShell](#powershell)
 *   [Kotlin](#kotlin)
 *   [C#](#c)
@@ -70,6 +70,8 @@
 ## JavaScript
 
 *   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
+
+*   [huhusmang/utools-qwen-ocr](https://github.com/huhusmang/utools-qwen-ocr) - 基于通义千问大模型的智能 OCR 识别工具
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
@@ -133,14 +135,6 @@
 
 *   [ReaJason/17wanxiaoCheckin](https://github.com/ReaJason/17wanxiaoCheckin) - 完美校园健康打卡，校内打卡，理论上支持所有学校（大概...）
 
-## HTML
-
-*   [huhusmang/utools-qwen-ocr](https://github.com/huhusmang/utools-qwen-ocr) - 基于通义千问大模型的智能 OCR 识别工具
-
-*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
-
-*   [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
-
 ## Vue
 
 *   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
@@ -189,7 +183,7 @@
 
 *   [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00三合一代理脚本【支持网页保活模式，部署保活融为一体】
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00三合一代理脚本【支持网页的保活、重启、重置端口，查看节点四大功能】
 
 *   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
 
@@ -214,6 +208,12 @@
 *   [qk-antares/antares-oj-backend](https://github.com/qk-antares/antares-oj-backend) -
 
 *   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+
+## HTML
+
+*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
+
+*   [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
 
 ## PowerShell
 
