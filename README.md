@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
@@ -27,37 +27,11 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 
-## TypeScript
-
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 短链与临时邮箱聚合平台，释放域名潜力
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
-
-*   [oustn/cloudflare-drop](https://github.com/oustn/cloudflare-drop) - 简单的文件或文本共享工具，使用 Cloudflare KV 和 D1
-
-*   [xishang0128/clash-meta-party](https://github.com/xishang0128/clash-meta-party) - :electron: Another Mihomo GUI. (🛠building...)
-
-*   [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
-
-*   [Plumbiu/blog](https://github.com/Plumbiu/blog) - Plumbiu's blog
-
-*   [LaughingZhu/DevNow](https://github.com/LaughingZhu/DevNow) - 📚 DevNow is an open source technology blog project. It currently hosts weekly news  （about  technology, development and product）, which is published every Monday morning. / DevNow 是一个精简的开源技术博客项目模版，支持 Vercel 一键部署，支持评论、搜索等功能，欢迎大家体验。
-
-*   [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
-
-*   [GuooGaii/ip-geoaddress-generator](https://github.com/GuooGaii/ip-geoaddress-generator) - 基于IP的真实地址生成器
-
-*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
-
-*   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
-
-*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-
-*   [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
-
 ## JavaScript
 
-*   [Quick-Bin/qbin](https://github.com/Quick-Bin/qbin) - ✨ 轻盈优雅的全能数据存储服务 | 以在线 Code 和 Markdown 编辑器为主体，一键存储文字、代码、图片、视频等任何数据 | 分布式架构+多级缓存让存取速度飞快 | 像记事本般简单，比云盘更便捷，随手记录，即存即用，开启您的云上数据自由时代！
+*   [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
+
+*   [Quick-Bin/qbin](https://github.com/Quick-Bin/qbin) - ✨ 专业的在线编辑分享平台 | Monaco 代码编辑 + Markdown 实时预览 | 支持密码保护和自定义链接 | PWA 离线支持 | 多级缓存加速
 
 *   [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 
@@ -92,6 +66,34 @@
 *   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 
 *   [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+
+## TypeScript
+
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short lin, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+
+*   [oustn/cloudflare-drop](https://github.com/oustn/cloudflare-drop) - 简单的文件或文本共享工具，使用 Cloudflare KV 和 D1
+
+*   [xishang0128/clash-meta-party](https://github.com/xishang0128/clash-meta-party) - :electron: Another Mihomo GUI. (🛠building...)
+
+*   [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
+
+*   [Plumbiu/blog](https://github.com/Plumbiu/blog) - Plumbiu's blog
+
+*   [LaughingZhu/DevNow](https://github.com/LaughingZhu/DevNow) - 📚 DevNow is an open source technology blog project. It currently hosts weekly news  （about  technology, development and product）, which is published every Monday morning. / DevNow 是一个精简的开源技术博客项目模版，支持 Vercel 一键部署，支持评论、搜索等功能，欢迎大家体验。
+
+*   [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
+
+*   [GuooGaii/ip-geoaddress-generator](https://github.com/GuooGaii/ip-geoaddress-generator) - 基于IP的真实地址生成器
+
+*   [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
+
+*   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
+
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+
+*   [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 & R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
 
 ## Python
 
