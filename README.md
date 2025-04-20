@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -21,17 +22,24 @@
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [Dart](#dart)
-*   [HTML](#html)
 *   [PowerShell](#powershell)
 *   [C#](#c)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 
+## HTML
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
+
+*   [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
+
 ## JavaScript
 
 *   [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 
-*   [Quick-Bin/qbin](https://github.com/Quick-Bin/qbin) - ✨ 专业的在线编辑分享平台 | Monaco 代码编辑 + Markdown 实时预览 | 支持密码保护和自定义链接 | PWA 离线支持 | 多级缓存加速
+*   [Quick-Bin/qbin](https://github.com/Quick-Bin/qbin) - QBin: 轻量高效的在线数据编辑与分享平台 | Monaco+Cherry Markdown专业编辑器 | Deno KV+PostgreSQL+Edge Cache多级缓存 | PWA离线访问+IndexedDB存储 | 自定义短链+密码+有效期 | 支持文本/代码/图片/视频 | OAuth2登录 | 明暗主题 | 实时保存 | Docker/Deno一键部署 | PasteBin替代方案
 
 *   [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 
@@ -175,7 +183,7 @@
 
 *   [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【更方便更安全的管理PandoraNext】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share\_token，pool\_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录日志，保护隐私安全，已打包好docker镜像，且有详细部署和使用文档，小白也能免费部署，一键启动！
 
-*   [qk-antares/antares-oj-backend](https://github.com/qk-antares/antares-oj-backend) -
+*   [qk-antares/antares-oj-backend](https://github.com/qk-antares/antares-oj-backend) - 基于Docker代码沙箱的算法题在线评测系统（Online Judge，OJ），分为网关、用户、判题和代码沙箱4个微服务。在系统前端，管理员可以创建、管理题目，用户可以查看题目，编写代码并进行在线自测和提交；在系统后端，自主实现了代码沙箱，能够对代码进行编译，在用户设置的测试用例上运行并输出结果信息（输出流、运行耗时、内存占用等），且代码沙箱作为独立服务，可以提供给其他开发者使用。
 
 *   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
 
@@ -232,12 +240,6 @@
 ## Dart
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-## HTML
-
-*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
-
-*   [DaGeger/paper-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
 
 ## PowerShell
 
