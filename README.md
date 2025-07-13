@@ -72,9 +72,9 @@
 
 *   [fangyuan99/real-time-bmi-calculator](https://github.com/fangyuan99/real-time-bmi-calculator) - 一个使用 Next.js (React) 构建的简单 Web 应用，根据用户输入的身高和体重实时计算身体质量指数 (BMI) / A simple web application built with Next.js (React) to calculate Body Mass Index (BMI) in real-time based on user input for height and weight.
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails and control subdomains—all on one platform.
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails, cloud storage and control subdomains—all on one platform.
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
 *   [oustn/cloudflare-drop](https://github.com/oustn/cloudflare-drop) - 简单的文件或文本共享工具，使用 Cloudflare KV 和 D1
 
