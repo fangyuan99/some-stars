@@ -72,7 +72,7 @@
 
 *   [fangyuan99/real-time-bmi-calculator](https://github.com/fangyuan99/real-time-bmi-calculator) - 一个使用 Next.js (React) 构建的简单 Web 应用，根据用户输入的身高和体重实时计算身体质量指数 (BMI) / A simple web application built with Next.js (React) to calculate Body Mass Index (BMI) in real-time based on user input for height and weight.
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 🌏 Shorten links, manage emails, cloud storage and control subdomains—all on one platform.
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
