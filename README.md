@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
@@ -19,12 +20,29 @@
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
-*   [Java](#java)
 *   [Batchfile](#batchfile)
 *   [MDX](#mdx)
 *   [Dart](#dart)
 *   [PowerShell](#powershell)
 *   [C#](#c)
+
+## Java
+
+*   [liyupi/yu-picture](https://github.com/liyupi/yu-picture) - 编程导航的新项目，基于 Vue 3 + Spring Boot + COS + WebSocket 的企业级智能协同云图库平台。项目应用场景广泛，可作为表情包网站、设计素材网站、壁纸网站、个人云盘、企业活动相册等。用户可以在平台公开上传和检索图片素材；管理员可以上传、审核和管理分析图片；个人用户可将图片上传至私有空间进行批量管理、检索、编辑和分析；企业可开通团队空间并邀请成员，共享图片并实时协同编辑图片。技术栈包括 MySQL 分库分表、Redis + Caffeine 多级缓存、COS 对象存储、Sa-Token 权限控制、DDD 领域驱动设计、WebSocket 实时通讯、JUC、Disruptor、AI 绘图大模型、设计模式等。从 0 到 1 的真实企业级项目设计开发，绝对让你收获满满
+
+*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
+
+*   [afwfv/DD-AD](https://github.com/afwfv/DD-AD) - 去他妈的广告
+
+*   [nageoffer/congomall](https://github.com/nageoffer/congomall) - 🔥🔥🔥 CongoMall（刚果商城）不一样的TOC商城系统，SpringCloud-Alibaba微服务架构设计，基于DDD领域驱动模型开发，代码设计优雅，涵盖商城核心业务。系统集成分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能，区别于八股文问答，真正企业级实战系统。
+
+*   [201206030/novel](https://github.com/201206030/novel) - novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
+
+*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
+
+*   [zongzibinbin/MallChat](https://github.com/zongzibinbin/MallChat) - mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）
+
+*   [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【更方便更安全的管理PandoraNext】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share\_token，pool\_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录日志，保护隐私安全，已打包好docker镜像，且有详细部署和使用文档，小白也能免费部署，一键启动！
 
 ## JavaScript
 
@@ -215,24 +233,6 @@
 *   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
 
 *   [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
-
-## Java
-
-*   [loks666/get\_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
-
-*   [afwfv/DD-AD](https://github.com/afwfv/DD-AD) - 去他妈的广告
-
-*   [nageoffer/congomall](https://github.com/nageoffer/congomall) - 🔥🔥🔥 CongoMall（刚果商城）不一样的TOC商城系统，SpringCloud-Alibaba微服务架构设计，基于DDD领域驱动模型开发，代码设计优雅，涵盖商城核心业务。系统集成分布式锁、分布式事务、分库分表、消息队列、数据搜索、服务监控等功能，区别于八股文问答，真正企业级实战系统。
-
-*   [201206030/novel](https://github.com/201206030/novel) - novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
-
-*   [weixiansen574/HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 多轨快传，同时使用USB和5G与2.4GWIFI等通道传输文件到电脑，榨干手机IO！
-
-*   [zongzibinbin/MallChat](https://github.com/zongzibinbin/MallChat) - mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）
-
-*   [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【更方便更安全的管理PandoraNext】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share\_token，pool\_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录日志，保护隐私安全，已打包好docker镜像，且有详细部署和使用文档，小白也能免费部署，一键启动！
-
-*   [qk-antares/antares-oj-backend](https://github.com/qk-antares/antares-oj-backend) - 基于Docker代码沙箱的算法题在线评测系统（Online Judge，OJ），分为网关、用户、判题和代码沙箱4个微服务。在系统前端，管理员可以创建、管理题目，用户可以查看题目，编写代码并进行在线自测和提交；在系统后端，自主实现了代码沙箱，能够对代码进行编译，在用户设置的测试用例上运行并输出结果信息（输出流、运行耗时、内存占用等），且代码沙箱作为独立服务，可以提供给其他开发者使用。
 
 ## Batchfile
 
