@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -28,11 +29,18 @@
 *   [CSS](#css)
 *   [C#](#c-2)
 *   [Vue](#vue)
-*   [Shell](#shell)
 *   [Svelte](#svelte)
 *   [Stylus](#stylus)
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Shell
+
+*   [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, tested on MacOS 15.4.1+ and 26 beta
+
+*   [k0baya/X-for-serv00](https://github.com/k0baya/X-for-serv00) - Xray-for-Serv00
+
+*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 
 ## Kotlin
 
@@ -53,8 +61,6 @@
 *   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 
 *   [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
-
-*   [iamr0s/InstallerX](https://github.com/iamr0s/InstallerX) - A modern and functional Android app installer. (You know some birds are not meant to be caged, their feathers are just too bright.)
 
 ## Python
 
@@ -238,8 +244,6 @@
 
 *   [anzhiyu-c/img2color-go](https://github.com/anzhiyu-c/img2color-go) - 一个获取图片主色调GO API
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 *   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
@@ -288,6 +292,8 @@
 
 *   [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
@@ -316,7 +322,7 @@
 
 ## Rust
 
-*   [Sjj1024/PacBao](https://github.com/Sjj1024/PacBao) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
@@ -392,7 +398,7 @@
 
 ## C++
 
-*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator, support HOOK / OCR / Clipboard
+*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator
 
 *   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 
@@ -453,12 +459,6 @@
 *   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
 
 *   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
-
-## Shell
-
-*   [k0baya/X-for-serv00](https://github.com/k0baya/X-for-serv00) - Xray-for-Serv00
-
-*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 
 ## Svelte
 
