@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [Java](#java)
@@ -27,12 +28,33 @@
 *   [PHP](#php)
 *   [CSS](#css)
 *   [C#](#c-2)
-*   [Vue](#vue)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [Stylus](#stylus)
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Vue
+
+*   [YangguangZhou/HeyTea-DIY-Toolkit](https://github.com/YangguangZhou/HeyTea-DIY-Toolkit) - 自动使用验证码登录喜茶，并将图片处理成可使用的标贴
+
+*   [SuInk/HeyTea-DIY-Toolkit](https://github.com/SuInk/HeyTea-DIY-Toolkit) - 自动使用验证码登录喜茶，并将图片处理成可使用的标贴
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+
+*   [RandallAnjie/moments](https://github.com/RandallAnjie/moments) - 极简朋友圈
+
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+
+*   [xianjianlf2/MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) - Auto generate MindMap with ChatGPT
+
+*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
+
+*   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
+
+*   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
 
 ## Go
 
@@ -178,8 +200,6 @@
 
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
 ## TypeScript
 
 *   [onehupo/DotClient](https://github.com/onehupo/DotClient) -
@@ -266,11 +286,9 @@
 
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
-*   [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
-
 ## C
 
-*   [tsl0922/EPD-nRF5](https://github.com/tsl0922/EPD-nRF5) - e-ink display firmware for Nordic nRF51/nRF52, with support for image transfer, OTA update.
+*   [tsl0922/EPD-nRF5](https://github.com/tsl0922/EPD-nRF5) - E-paper display firmware for Nordic nRF51/nRF52, with support for image transfer, OTA update.
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
@@ -435,24 +453,6 @@
 *   [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。
 
 *   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-
-## Vue
-
-*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
-
-*   [RandallAnjie/moments](https://github.com/RandallAnjie/moments) - 极简朋友圈
-
-*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-
-*   [xianjianlf2/MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) - Auto generate MindMap with ChatGPT
-
-*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
-
-*   [ocoke/sasanqua](https://github.com/ocoke/sasanqua) - 📈 Simple, privacy-friendly, real-time traffic insight at the edge.
-
-*   [YangguangZhou/Tools](https://github.com/YangguangZhou/Tools) - Jerry Zhou的工具箱和个人项目
 
 ## Rust
 
