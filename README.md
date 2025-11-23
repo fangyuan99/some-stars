@@ -90,8 +90,6 @@
 
 *   [QingJ01/123pan\_unlock](https://github.com/QingJ01/123pan_unlock) - 基于油猴的123云盘解锁脚本，支持解锁123云盘下载功能
 
-*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
-
 *   [huhusmang/utools-qwen-ocr](https://github.com/huhusmang/utools-qwen-ocr) - 基于通义千问大模型的智能 OCR 识别工具
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -121,6 +119,8 @@
 *   [bennyhuo/programmer-levels](https://github.com/bennyhuo/programmer-levels) -
 
 *   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
+
+*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 
 *   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
