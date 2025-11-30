@@ -133,7 +133,7 @@
 
 ## Python
 
-*   [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
+*   [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 
 *   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -259,7 +259,7 @@
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 
-*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - Cloudflare AI Platform with one-click deployment. 可一键部署的Cloudflare AI平台
+*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - Cloudflare AI Platform with one-click deployment
 
 *   [LemonZuo/pandora-plus-helper](https://github.com/LemonZuo/pandora-plus-helper) -
 
@@ -299,7 +299,7 @@
 
 *   [YangguangZhou/Caffeine-Tracker](https://github.com/YangguangZhou/Caffeine-Tracker) - 一个使用 React 构建的 Web 应用，旨在帮助用户科学地追踪、管理和分析他们的咖啡因摄入量，并提供基于科学模型的代谢估算和健康建议。
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [YangguangZhou/Poems](https://github.com/YangguangZhou/Poems) - 使用 Next.js 开发的古诗文网站，提供高中语文必背诗词和文言文的查询、学习功能。网站设计美观、响应式，支持多种设备访问。
 
@@ -334,8 +334,6 @@
 *   [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 
 *   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 
@@ -409,7 +407,7 @@
 
 *   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 
 ## C++
 
@@ -464,6 +462,8 @@
 ## Svelte
 
 *   [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language.
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [YangguangZhou/genshin-impact-picker](https://github.com/YangguangZhou/genshin-impact-picker) - 原神随机点名器
 
