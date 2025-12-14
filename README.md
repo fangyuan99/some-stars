@@ -67,8 +67,6 @@
 
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-
 *   [linux-do/new-api](https://github.com/linux-do/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 
 *   [anzhiyu-c/img2color-go](https://github.com/anzhiyu-c/img2color-go) - 一个获取图片主色调GO API
@@ -229,7 +227,7 @@
 
 *   [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 
-*   [Lordly-Tech/LordlyRead](https://github.com/Lordly-Tech/LordlyRead) -
+*   [Lordly-Tech/LordlyRead](https://github.com/Lordly-Tech/LordlyRead) - 支持「开源阅读」规则的手环在线阅读工具，支持HyperOS/VelaOS
 
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
@@ -242,6 +240,8 @@
 *   [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 
 *   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
+
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
@@ -297,7 +297,7 @@
 
 *   [YangguangZhou/Caffeine-Tracker](https://github.com/YangguangZhou/Caffeine-Tracker) - 一个使用 React 构建的 Web 应用，旨在帮助用户科学地追踪、管理和分析他们的咖啡因摄入量，并提供基于科学模型的代谢估算和健康建议。
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubRelease/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [YangguangZhou/Poems](https://github.com/YangguangZhou/Poems) - 使用 Next.js 开发的古诗文网站，提供高中语文必背诗词和文言文的查询、学习功能。网站设计美观、响应式，支持多种设备访问。
 
