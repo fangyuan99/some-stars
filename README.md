@@ -116,7 +116,7 @@
 
 *   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - Cloud Mail - Simple Email Service on Cloudflare  | 基于 Cloudflare 的简约响应式邮箱服务  | Cloudflare Email 邮箱 Mail
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/GithubAPI/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3/WebDav/OneDrive/GoogleDrive/TG/GithubAPI/Local aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
 
 *   [yym68686/Cerebr](https://github.com/yym68686/Cerebr) - Chat with web content by AI. web demo url: https://cerebr.yym68686.top
 
