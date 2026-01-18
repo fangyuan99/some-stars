@@ -299,7 +299,7 @@
 
 *   [YangguangZhou/Caffeine-Tracker](https://github.com/YangguangZhou/Caffeine-Tracker) - 一个使用 React 构建的 Web 应用，旨在帮助用户科学地追踪、管理和分析他们的咖啡因摄入量，并提供基于科学模型的代谢估算和健康建议。
 
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具，支持多存储聚合。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、文件预览、挂载WebDAV 服务。支持 Cloudflare Workers 或 Docker 部署。
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - 🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、文件预览、挂载WebDAV 服务。支持 Cloudflare Workers 或 Docker 部署。
 
 *   [YangguangZhou/Poems](https://github.com/YangguangZhou/Poems) - 使用 Next.js 开发的古诗文网站，提供高中语文必背诗词和文言文的查询、学习功能。网站设计美观、响应式，支持多种设备访问。
 
