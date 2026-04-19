@@ -11,11 +11,11 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [HTML](#html)
 *   [Shell](#shell)
-*   [TypeScript](#typescript)
-*   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
@@ -27,6 +27,8 @@
 
 ## Python
 
+*   [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+
 *   [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
 
 *   [assast/outlookEmail](https://github.com/assast/outlookEmail) -
@@ -35,7 +37,7 @@
 
 *   [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) -
 
-*   [loLollipop/team-manage-refresh](https://github.com/loLollipop/team-manage-refresh) - 基于 team-manage 增强的团队账号管理系统，集成了一键 Token 提取、CPA 凭证导出、Token 自动刷新与福利车位分发等实用功能。
+*   [loLollipop/team-manage-refresh](https://github.com/loLollipop/team-manage-refresh) - 基于 team-manage 增强的ChatGPT团队账号管理系统，集成了一键 Token 提取、CPA 凭证导出、Token 自动刷新与福利车位分发等实用功能。
 
 *   [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
 
@@ -67,47 +69,9 @@
 
 *   [yym68686/uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
 
-*   [AowerDmax/Simple-Interview-Audio-Processing](https://github.com/AowerDmax/Simple-Interview-Audio-Processing) -
-
-## Go
-
-*   [shenyanshu/vpngate-to-socks](https://github.com/shenyanshu/vpngate-to-socks) - VpnGate to Socks5
-
-*   [streetartist/zenproxy](https://github.com/streetartist/zenproxy) -
-
-*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具
-
-*   [SMNETSTUDIO/Abacus2Api](https://github.com/SMNETSTUDIO/Abacus2Api) -
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
-
-## HTML
-
-*   [HChaoHui/msOauth2api](https://github.com/HChaoHui/msOauth2api) - 将微软Oauth2登录取件转换为API取件 部署在Vercel 无服务器版
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
-*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
-
-## Shell
-
-*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager — it is a single SKILL.md file that teaches any AI coding agent a structured methodology.
-
-*   [X-Zero-L/rig](https://github.com/X-Zero-L/rig) - Rig your dev environment — shell, tmux, Docker, Node.js, Python, Claude Code, Codex, Gemini, and more. One-command interactive or non-interactive setup for Debian/Ubuntu.
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-
-*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-
-*   [k0baya/X-for-serv00](https://github.com/k0baya/X-for-serv00) - Xray-for-Serv00
-
-*   [gshtwy/socks5-hysteria2-for-Serv00-CT8](https://github.com/gshtwy/socks5-hysteria2-for-Serv00-CT8) - Installation scripts for Socks5 on Serv00
-
-*   [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
-
 ## TypeScript
+
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
 *   [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel) -
 
@@ -159,6 +123,10 @@
 
 ## JavaScript
 
+*   [ZgDaniel/cc-web](https://github.com/ZgDaniel/cc-web) - cc-web是通过浏览器使用cc的远程工具，主要是超轻量的设计、后台进程保活、交互界面优化，对于捉襟见肘的服务器空间有很好的帮助。支持linux和windows。
+
+*   [haeyupi/hotmail\_re\_plugin](https://github.com/haeyupi/hotmail_re_plugin) -
+
 *   [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper) - 一站式Team账号管理
 
 *   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
@@ -196,6 +164,38 @@
 *   [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share) - Cookie-share is a tampermonkey script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
 
 *   [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
+
+## Go
+
+*   [shenyanshu/vpngate-to-socks](https://github.com/shenyanshu/vpngate-to-socks) - VpnGate to Socks5
+
+*   [streetartist/zenproxy](https://github.com/streetartist/zenproxy) -
+
+*   [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具
+
+*   [SMNETSTUDIO/Abacus2Api](https://github.com/SMNETSTUDIO/Abacus2Api) -
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
+
+## HTML
+
+*   [HChaoHui/msOauth2api](https://github.com/HChaoHui/msOauth2api) - 将微软Oauth2登录取件转换为API取件 部署在Vercel 无服务器版
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
+
+## Shell
+
+*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager — it is a single SKILL.md file that teaches any AI coding agent a structured methodology.
+
+*   [X-Zero-L/rig](https://github.com/X-Zero-L/rig) - Rig your dev environment — shell, tmux, Docker, Node.js, Python, Claude Code, Codex, Gemini, and more. One-command interactive or non-interactive setup for Debian/Ubuntu.
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+
+*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
 
 ## PowerShell
 
