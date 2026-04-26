@@ -10,20 +10,48 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [HTML](#html)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
-*   [HTML](#html)
 *   [Shell](#shell)
 *   [PowerShell](#powershell)
 *   [Dart](#dart)
-*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
 *   [Vue](#vue)
 *   [MDX](#mdx)
+
+## miscellaneous
+
+*   [guoguo-tju/agent\_java\_offer](https://github.com/guoguo-tju/agent_java_offer) - 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [bennyhuo/programmer-levels](https://github.com/bennyhuo/programmer-levels) -
+
+*   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
+
+*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
+
+*   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+
+*   [Xposed-Modules-Repo/Hook.JiuWu.Xp](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp) - HookVip
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+## HTML
+
+*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+
+*   [HChaoHui/msOauth2api](https://github.com/HChaoHui/msOauth2api) - 将微软Oauth2登录取件转换为API取件 部署在Vercel 无服务器版
+
+*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
+
+*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
 
 ## Python
 
@@ -33,7 +61,7 @@
 
 *   [assast/outlookEmail](https://github.com/assast/outlookEmail) -
 
-*   [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) -
+*   [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 
 *   [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) -
 
@@ -66,8 +94,6 @@
 *   [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant!
 
 *   [Cl0udG0d/Fofa-hack](https://github.com/Cl0udG0d/Fofa-hack) - 非付费会员，fofa数据采集工具
-
-*   [yym68686/uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
 
 ## TypeScript
 
@@ -177,17 +203,9 @@
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 
-## HTML
-
-*   [HChaoHui/msOauth2api](https://github.com/HChaoHui/msOauth2api) - 将微软Oauth2登录取件转换为API取件 部署在Vercel 无服务器版
-
-*   [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
-
-*   [lingeringsound/10007](https://github.com/lingeringsound/10007) - hosts of block ads
-
 ## Shell
 
-*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager — it is a single SKILL.md file that teaches any AI coding agent a structured methodology.
+*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - A cross-platform AI agent skill that turns "rewrite this in Rust" or "migrate to microservices" into a disciplined, document-driven workflow — analyze, decompose, track, execute. One SKILL.md, no framework, no runtime. Works with Claude Code, Codex, Cursor, or any agent that reads Markdown.
 
 *   [X-Zero-L/rig](https://github.com/X-Zero-L/rig) - Rig your dev environment — shell, tmux, Docker, Node.js, Python, Claude Code, Codex, Gemini, and more. One-command interactive or non-interactive setup for Debian/Ubuntu.
 
@@ -206,22 +224,6 @@
 ## Dart
 
 *   [amchii/FloatingClock](https://github.com/amchii/FloatingClock) - 悬浮时间，精确显示到10毫秒
-
-## miscellaneous
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [bennyhuo/programmer-levels](https://github.com/bennyhuo/programmer-levels) -
-
-*   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
-
-*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
-
-*   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
-
-*   [Xposed-Modules-Repo/Hook.JiuWu.Xp](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp) - HookVip
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
 ## Java
 
@@ -246,8 +248,6 @@
 ## Vue
 
 *   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
-
-*   [october-coder/api-check](https://github.com/october-coder/api-check) - Pure Front-End API Testing Tool
 
 ## MDX
 
