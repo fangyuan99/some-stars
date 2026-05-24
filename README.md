@@ -10,13 +10,13 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
+*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
-*   [CSS](#css)
-*   [Python](#python)
 *   [JavaScript](#javascript)
+*   [Python](#python)
 *   [Go](#go)
-*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [PowerShell](#powershell)
 *   [Dart](#dart)
@@ -24,6 +24,32 @@
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
 *   [Vue](#vue)
+
+## Rust
+
+*   [Wangnov/codex-threadripper](https://github.com/Wangnov/codex-threadripper) - Keep Codex thread history aligned to one provider bucket.
+
+*   [wuxiran/cc-pane](https://github.com/wuxiran/cc-pane) - Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2
+
+## miscellaneous
+
+*   [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+*   [guoguo-tju/agent\_java\_offer](https://github.com/guoguo-tju/agent_java_offer) - 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [bennyhuo/programmer-levels](https://github.com/bennyhuo/programmer-levels) -
+
+*   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
+
+*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
+
+*   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+
+*   [Xposed-Modules-Repo/Hook.JiuWu.Xp](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp) - HookVip
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
 ## HTML
 
@@ -53,8 +79,6 @@
 
 *   [Frankieli123/dns-panel](https://github.com/Frankieli123/dns-panel) -
 
-*   [wuxiran/cc-pane](https://github.com/wuxiran/cc-pane) - Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2
-
 *   [ooboqoo/interview-coder-cn](https://github.com/ooboqoo/interview-coder-cn) - AI 解题助手，考试助手，在「面试」或「在线考试」时，借助AI实时提供解题思路和答案。
 
 *   [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
@@ -79,7 +103,7 @@
 
 *   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
-*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
 *   [oustn/cloudflare-drop](https://github.com/oustn/cloudflare-drop) - 简单的文件或文本共享工具，使用 Cloudflare KV 和 D1
 
@@ -93,47 +117,9 @@
 
 *   [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 
-## CSS
+## JavaScript
 
 *   [Acris/hexo-theme-shiro](https://github.com/Acris/hexo-theme-shiro) - A pure and simple theme for Hexo.
-
-## Python
-
-*   [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
-
-*   [NyxTides/ppt-image-first](https://github.com/NyxTides/ppt-image-first) - PPT image-first skill for Codex/Claude Code/Opencode CLI
-
-*   [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
-
-*   [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-
-*   [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
-
-*   [assast/outlookEmail](https://github.com/assast/outlookEmail) -
-
-*   [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
-
-*   [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) -
-
-*   [loLollipop/team-manage-refresh](https://github.com/loLollipop/team-manage-refresh) - 基于 team-manage 增强的ChatGPT团队账号管理系统，集成了一键 Token 提取、CPA 凭证导出、Token 自动刷新与福利车位分发等实用功能。
-
-*   [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
-
-*   [ryfineZ/my-ai-skills](https://github.com/ryfineZ/my-ai-skills) -
-
-*   [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) - The genuine open dictionary, grounded by Wikitionary and explained more with LLMs
-
-*   [fuwei99/hf\_abacus](https://github.com/fuwei99/hf_abacus) -
-
-*   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
-
-*   [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
-
-*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
-
-*   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
-
-## JavaScript
 
 *   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
 
@@ -179,11 +165,43 @@
 
 *   [liujuntao123/prompt-manager](https://github.com/liujuntao123/prompt-manager) - 一个简洁、美观、实用的提示词管理网站。
 
-*   [YangguangZhou/some-stars](https://github.com/YangguangZhou/some-stars) - 我的star列表，每天自动更新
+## Python
+
+*   [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+
+*   [NyxTides/ppt-image-first](https://github.com/NyxTides/ppt-image-first) - PPT image-first skill for Codex/Claude Code/Opencode CLI
+
+*   [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
+
+*   [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+
+*   [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) -  Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
+
+*   [assast/outlookEmail](https://github.com/assast/outlookEmail) -
+
+*   [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
+
+*   [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) -
+
+*   [loLollipop/team-manage-refresh](https://github.com/loLollipop/team-manage-refresh) - 基于 team-manage 增强的ChatGPT团队账号管理系统，集成了一键 Token 提取、CPA 凭证导出、Token 自动刷新与福利车位分发等实用功能。
+
+*   [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
+
+*   [ryfineZ/my-ai-skills](https://github.com/ryfineZ/my-ai-skills) -
+
+*   [ahpxex/open-dictionary](https://github.com/ahpxex/open-dictionary) - The genuine open dictionary, grounded by Wikitionary and explained more with LLMs
+
+*   [fuwei99/hf\_abacus](https://github.com/fuwei99/hf_abacus) -
+
+*   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
+
+*   [linux-do/lottery](https://github.com/linux-do/lottery) - LINUX DO Lottery
+
+*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
 
 ## Go
 
-*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 *   [shenyanshu/vpngate-to-socks](https://github.com/shenyanshu/vpngate-to-socks) - VpnGate to Socks5
 
@@ -195,27 +213,9 @@
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 
-## miscellaneous
-
-*   [guoguo-tju/agent\_java\_offer](https://github.com/guoguo-tju/agent_java_offer) - 公开的 Java 后端 / AI Agent / 系统设计 / 算法面试复习资料库
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [bennyhuo/programmer-levels](https://github.com/bennyhuo/programmer-levels) -
-
-*   [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
-
-*   [NopeCHALLC/nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
-
-*   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
-
-*   [Xposed-Modules-Repo/Hook.JiuWu.Xp](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp) - HookVip
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
 ## Shell
 
-*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - A cross-platform AI agent skill that turns "rewrite this in Rust" or "migrate to microservices" into a disciplined, document-driven workflow — analyze, decompose, track, execute. One SKILL.md, no framework, no runtime. Works with Claude Code, Codex, Cursor, or any agent that reads Markdown.
+*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - A structured development methodology for AI coding agents, inspired by Qian Xuesen's engineering cybernetics. Closed-loop feedback control keeps plans aligned with reality. Pure Markdown, any platform.
 
 *   [X-Zero-L/rig](https://github.com/X-Zero-L/rig) - Rig your dev environment — shell, tmux, Docker, Node.js, Python, Claude Code, Codex, Gemini, and more. One-command interactive or non-interactive setup for Debian/Ubuntu.
 
