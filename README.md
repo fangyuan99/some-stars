@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -17,13 +18,26 @@
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [PowerShell](#powershell)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
 *   [Vue](#vue)
+
+## Shell
+
+*   [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+
+*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - A structured development methodology for AI coding agents, inspired by Qian Xuesen's engineering cybernetics. Closed-loop feedback control keeps plans aligned with reality. Pure Markdown, any platform.
+
+*   [X-Zero-L/rig](https://github.com/X-Zero-L/rig) - Rig your dev environment — shell, tmux, Docker, Node.js, Python, Claude Code, Codex, Gemini, and more. One-command interactive or non-interactive setup for Debian/Ubuntu.
+
+*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+
+*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
 
 ## Rust
 
@@ -48,8 +62,6 @@
 *   [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 
 *   [Xposed-Modules-Repo/Hook.JiuWu.Xp](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp) - HookVip
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
 ## HTML
 
@@ -212,18 +224,6 @@
 *   [SMNETSTUDIO/Abacus2Api](https://github.com/SMNETSTUDIO/Abacus2Api) -
 
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
-
-## Shell
-
-*   [zhu1090093659/spec\_driven\_develop](https://github.com/zhu1090093659/spec_driven_develop) - A structured development methodology for AI coding agents, inspired by Qian Xuesen's engineering cybernetics. Closed-loop feedback control keeps plans aligned with reality. Pure Markdown, any platform.
-
-*   [X-Zero-L/rig](https://github.com/X-Zero-L/rig) - Rig your dev environment — shell, tmux, Docker, Node.js, Python, Claude Code, Codex, Gemini, and more. One-command interactive or non-interactive setup for Debian/Ubuntu.
-
-*   [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-
-*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
 
 ## PowerShell
 
